@@ -30,7 +30,11 @@ If You want to use virtual machine for first time check this : [Environment](htt
 
 * Download data : https://www.kaggle.com/olgabelitskaya/traditional-decor-patterns/data  
   
-* Clone or download github folder with jupyter notebook and pretrained weights.
+* Clone or download github folder with jupyter notebook.  
+
+* Download pre trained weights and move to main folder
+> **[Predict Country of origin with CNN](https://www.kaggle.com/rafalb/transfer-learning-and-image-preprocessing-94/output)**  
+> **[Predict Country of origin and decor with Xception](https://www.kaggle.com/rafalb/transfer-learning-and-image-preprocessing-94/output)**  
   
 * Create new folder 
 > 'input/traditional-decor-patterns'   and unzip kaggle dataset there.  
