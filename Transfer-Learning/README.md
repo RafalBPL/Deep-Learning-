@@ -23,6 +23,8 @@ The file DecorColorImages.h5 consists of preprocessing images of this set: image
 | TensorFlow | [Installing TensorFlow ](https://www.tensorflow.org/install/) |
 | Keras | [Installation](https://keras.io/#installation) |
 | H5py | [Installation](http://docs.h5py.org/en/latest/build.html)|
+  
+  
 If You want to use virtual machine for first time check this : [Environment](https://github.com/dataworkshop/course_env)  
 
 
