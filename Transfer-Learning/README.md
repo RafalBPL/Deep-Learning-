@@ -14,7 +14,7 @@ The file DecorColorImages.h5 consists of preprocessing images of this set: image
 #### If you want to use this script for Your own follow instruction :   
 
 **In order to work properly, you should have**  
-| Library | README |
+| Plugin | README |
 | ------ | ------ |
 | NumPy | [Getting NumPy](http://www.numpy.org/) |
 | Pandas | [Pandas Library](https://pandas.pydata.org/) |
@@ -30,7 +30,8 @@ If You want to use virtual machine for first time check this : [Environment](htt
   
 * Clone or download github folder with jupyter notebook and pretrained weights.
   
-* Create new folder 'input/traditional-decor-patterns' and unzip kaggle dataset there.  
+* Create new folder 
+> 'input/traditional-decor-patterns'   and unzip kaggle dataset there.  
   
 * Go to **Create predict models** in jupyter notebook and click on *Xception model with frozen all layers*.  
   
@@ -41,7 +42,9 @@ baseModel = Xception(weights='imagenet',
                        input_shape = (197, 197, 3))
 ```
 
-* If You want to test Model with existing images create folder '../input/traditional-decor-patterns/decor' and unzip it.  
+* If You want to test Model with existing images create folder  
+> '../input/traditional-decor-patterns/decor'   
+and unzip it.  
 
 
   
