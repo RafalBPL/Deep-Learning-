@@ -20,7 +20,7 @@
 >   
 
 **Convolutional Neural Networks**  
->  
+>  [Transfer Learning with Xception model](https://github.com/g0lemXIV/Deep-Learning-/tree/master/Transfer-Learning) [PDF](https://arxiv.org/pdf/1610.02357.pdf)
 
 **Sequence Models**  
 >  
