@@ -17,11 +17,12 @@ The file DecorColorImages.h5 consists of preprocessing images of this set: image
 
 | Plugin | README |
 | ------ | ------ |
-| Node.js | [Node.js instalation guide](https://nodejs.org/en/download/package-manager/) |
-| MetaMask | [Plugin](https://metamask.io/) |
-| TestRPC | [Node package](https://www.npmjs.com/package/ethereumjs-testrpc) |
-|Optional| [Ganache](http://truffleframework.com/docs/ganache/using)|
-
+| NumPy | [Getting NumPy](http://www.numpy.org/) |
+| Pandas | [Pandas Library](https://pandas.pydata.org/) |
+| SciKit-learn | [http://scikit-learn.org/stable/install.html](http://scikit-learn.org/) |
+| TensorFlow | [Installing TensorFlow ](https://www.tensorflow.org/install/) |
+| Keras | [Installation](https://keras.io/#installation) |
+| H5py | [Installation](http://docs.h5py.org/en/latest/build.html)|
 If You want to use virtual machine for first time check this : [Environment](https://github.com/dataworkshop/course_env)  
 
 
